@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xea7A18B2CF427B34Ec6EeD4DF73f1AE9aCEb9119",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xea7A18B2CF427B34Ec6EeD4DF73f1AE9aCEb9119",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "Test Meerkat",
+  "SYMBOL": "TBM",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 1,
+  "DISPLAY_COST": 0.0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test-barter-meerkat",
+  "SHOW_BACKGROUND": true
+}
