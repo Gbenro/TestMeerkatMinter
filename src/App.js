@@ -265,7 +265,8 @@ function App() {
                 >
                   {/* 1 {CONFIG.SYMBOL} costs {CONFIG.DISPLAY_COST}{" "}
                   {CONFIG.NETWORK.SYMBOL}. */}
-                  Mint 5 for Free. <br/>Only whitedListed Addresses Can Mint.
+                  Mint 5 TBM_V2 for Free. <br />
+                  Only whitedListed Addresses Can Mint.
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
@@ -384,12 +385,12 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "var(--primary-text)",
+              color: "var(--secondary-text)",
             }}
           >
             Please make sure you are connected to the right network (
             {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
-            Once you make the purchase, you cannot undo this action.
+            This is a Test NFT, Only of Use in the Rinkeby Test Network.
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
